@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yapi-1.0-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../monitor-sync-yeeligh/librerie/yapi-1.0-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
